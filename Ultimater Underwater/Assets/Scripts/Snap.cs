@@ -46,7 +46,7 @@ public class Snap : MonoBehaviour {
 
 	//for creating new button size
 	Rect buttonrect = new Rect(40,145,100,23);
-	bool popupcondition;
+	bool popupcondition, gameend;
 	public Texture2D popupimage;
 
 	Texture2D[] animText = new Texture2D[10] ;
@@ -54,7 +54,7 @@ public class Snap : MonoBehaviour {
 
 	void Start () {
 
-
+		gameend = false;
 
 		ag = 0;
 
@@ -112,6 +112,14 @@ public class Snap : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+		//LEVEL OVER - DTECT FINAL SOUND
+		if (gameend) {
+			if (!audio.isPlaying) {
+				gameend = false;
+				Application.LoadLevel ("levels");
+			};
+		};
+
 		//TOUCH DETECTED
 		if (Input.touchCount == 1) {
 
@@ -133,7 +141,7 @@ public class Snap : MonoBehaviour {
 							audio.Play();
 							//SHOW GAME END POP-UP
 							count = 0;
-							popupbox.transform.position = new Vector3(-1, 0 , -1);
+							gameend = true;
 						};
 					}else if(hit.collider.gameObject.name == "backButton"){
 						Application.LoadLevel ("levels");
