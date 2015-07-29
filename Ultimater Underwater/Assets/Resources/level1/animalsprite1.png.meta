@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 12fd85fb8abbf37409823c375874cce5
-timeCreated: 1437825151
+timeCreated: 1438165141
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -24,6 +24,12 @@ TextureImporter:
     21300034: animalsprite1_17
     21300036: animalsprite1_18
     21300038: animalsprite1_19
+    21300040: animalsprite1_20
+    21300042: animalsprite1_21
+    21300044: animalsprite1_22
+    21300046: animalsprite1_23
+    21300048: animalsprite1_24
+    21300050: animalsprite1_25
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -72,149 +78,149 @@ TextureImporter:
     - name: animalsprite1_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 1342
-        width: 623
-        height: 216
+        x: 56
+        y: 2100
+        width: 710
+        height: 230
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_1
       rect:
         serializedVersion: 2
-        x: 669
-        y: 1343
-        width: 619
-        height: 215
+        x: 817
+        y: 2103
+        width: 702
+        height: 226
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_2
       rect:
         serializedVersion: 2
-        x: 1315
-        y: 1343
-        width: 614
-        height: 215
+        x: 47
+        y: 1873
+        width: 693
+        height: 224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1126
-        width: 610
-        height: 214
+        x: 808
+        y: 1876
+        width: 685
+        height: 219
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_4
       rect:
         serializedVersion: 2
-        x: 661
-        y: 1127
-        width: 606
-        height: 213
+        x: 37
+        y: 1647
+        width: 677
+        height: 214
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_5
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 1127
-        width: 601
-        height: 213
+        x: 799
+        y: 1649
+        width: 668
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_6
       rect:
         serializedVersion: 2
-        x: 8
-        y: 910
-        width: 596
-        height: 212
+        x: 28
+        y: 1419
+        width: 659
+        height: 207
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_7
       rect:
         serializedVersion: 2
-        x: 653
-        y: 910
-        width: 592
-        height: 212
+        x: 790
+        y: 1420
+        width: 650
+        height: 204
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_8
       rect:
         serializedVersion: 2
-        x: 1299
-        y: 911
-        width: 586
-        height: 211
+        x: 19
+        y: 1188
+        width: 643
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 694
-        width: 582
-        height: 210
+        x: 781
+        y: 1188
+        width: 634
+        height: 199
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_10
       rect:
         serializedVersion: 2
-        x: 651
-        y: 693
-        width: 586
-        height: 211
+        x: 19
+        y: 954
+        width: 642
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_11
       rect:
         serializedVersion: 2
-        x: 1301
-        y: 692
-        width: 591
-        height: 212
+        x: 789
+        y: 954
+        width: 648
+        height: 204
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_12
       rect:
         serializedVersion: 2
-        x: 7
-        y: 474
-        width: 595
-        height: 212
+        x: 27
+        y: 721
+        width: 657
+        height: 205
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_13
       rect:
         serializedVersion: 2
-        x: 658
-        y: 474
-        width: 599
-        height: 212
+        x: 797
+        y: 718
+        width: 664
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_14
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 473
-        width: 603
+        x: 35
+        y: 482
+        width: 672
         height: 213
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -222,50 +228,110 @@ TextureImporter:
     - name: animalsprite1_15
       rect:
         serializedVersion: 2
-        x: 15
-        y: 254
-        width: 606
-        height: 214
+        x: 805
+        y: 480
+        width: 680
+        height: 217
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_16
       rect:
         serializedVersion: 2
-        x: 665
-        y: 254
-        width: 611
-        height: 214
+        x: 31
+        y: 436
+        width: 25
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_17
       rect:
         serializedVersion: 2
-        x: 1315
-        y: 253
-        width: 616
-        height: 215
+        x: 42
+        y: 244
+        width: 688
+        height: 221
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_18
       rect:
         serializedVersion: 2
-        x: 22
-        y: 35
-        width: 619
-        height: 215
+        x: 781
+        y: 441
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite1_19
       rect:
         serializedVersion: 2
-        x: 672
-        y: 34
-        width: 623
-        height: 216
+        x: 799
+        y: 451
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite1_20
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 242
+        width: 704
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite1_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite1_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite1_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 701
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite1_24
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3
+        width: 709
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 18
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
