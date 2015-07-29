@@ -216,15 +216,7 @@ public class Snap : MonoBehaviour {
 
 
 							popupbox.transform.position = new Vector3(0, 0 , -1);
-
-							if(ag%2 == 0)
-							{
-								ag++;
-								popupanimal.GetComponent<Animator>().runtimeAnimatorController = Resources.Load("level1/animalsprite1_0") as RuntimeAnimatorController;
-							}else{
-								ag++;
-								popupanimal.GetComponent<Animator>().runtimeAnimatorController = Resources.Load("level1/animalsprite2_0") as RuntimeAnimatorController;
-							};
+							popupanimal.GetComponent<Animator>().runtimeAnimatorController = Resources.Load("level"+(l+1)+"/animalsprite"+(detectnumber+1)+"_0") as RuntimeAnimatorController;
 							
 							for(i=0; i<boxes.Length; i++)
 							{

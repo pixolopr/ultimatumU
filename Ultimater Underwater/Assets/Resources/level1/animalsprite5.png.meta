@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a7f67cd0df38d2445bf1f16bbe607285
-timeCreated: 1438164563
+timeCreated: 1438181785
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -83,7 +83,7 @@ TextureImporter:
         width: 524
         height: 214
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_1
       rect:
@@ -93,7 +93,7 @@ TextureImporter:
         width: 524
         height: 213
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_2
       rect:
@@ -103,7 +103,7 @@ TextureImporter:
         width: 524
         height: 212
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_3
       rect:
@@ -113,7 +113,7 @@ TextureImporter:
         width: 524
         height: 210
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_4
       rect:
@@ -123,7 +123,7 @@ TextureImporter:
         width: 523
         height: 209
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_5
       rect:
@@ -133,7 +133,7 @@ TextureImporter:
         width: 523
         height: 207
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_6
       rect:
@@ -143,7 +143,7 @@ TextureImporter:
         width: 523
         height: 205
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_7
       rect:
@@ -153,7 +153,7 @@ TextureImporter:
         width: 523
         height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_8
       rect:
@@ -163,7 +163,7 @@ TextureImporter:
         width: 521
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_9
       rect:
@@ -173,7 +173,7 @@ TextureImporter:
         width: 521
         height: 201
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_10
       rect:
@@ -183,7 +183,7 @@ TextureImporter:
         width: 521
         height: 201
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_11
       rect:
@@ -193,7 +193,7 @@ TextureImporter:
         width: 522
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_12
       rect:
@@ -203,7 +203,7 @@ TextureImporter:
         width: 522
         height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_13
       rect:
@@ -213,7 +213,7 @@ TextureImporter:
         width: 523
         height: 205
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_14
       rect:
@@ -223,7 +223,7 @@ TextureImporter:
         width: 525
         height: 208
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_15
       rect:
@@ -233,87 +233,37 @@ TextureImporter:
         width: 534
         height: 208
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_16
       rect:
         serializedVersion: 2
         x: 7
         y: 226
-        width: 531
+        width: 556
         height: 210
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite5_17
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 403
-        width: 22
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .467617124, y: .51075393}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_18
       rect:
         serializedVersion: 2
         x: 595
         y: 225
-        width: 538
+        width: 570
         height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite5_19
-      rect:
-        serializedVersion: 2
-        x: 1132
-        y: 417
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite5_20
-      rect:
-        serializedVersion: 2
-        x: 1149
-        y: 404
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .460380375, y: .499999702}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_21
       rect:
         serializedVersion: 2
         x: 3
         y: 10
-        width: 524
+        width: 587
         height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite5_22
-      rect:
-        serializedVersion: 2
-        x: 550
-        y: 204
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite5_23
-      rect:
-        serializedVersion: 2
-        x: 575
-        y: 192
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .444215208, y: .499999642}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite5_24
       rect:
@@ -323,17 +273,7 @@ TextureImporter:
         width: 523
         height: 214
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite5_25
-      rect:
-        serializedVersion: 2
-        x: 531
-        y: 158
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ff2c83d4145c984419a3a95140e3e725
-timeCreated: 1438164595
+timeCreated: 1438181938
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -80,7 +80,7 @@ TextureImporter:
         width: 394
         height: 388
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_1
       rect:
@@ -90,7 +90,7 @@ TextureImporter:
         width: 389
         height: 384
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_2
       rect:
@@ -100,7 +100,7 @@ TextureImporter:
         width: 383
         height: 379
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_3
       rect:
@@ -110,7 +110,7 @@ TextureImporter:
         width: 377
         height: 375
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_4
       rect:
@@ -120,7 +120,7 @@ TextureImporter:
         width: 370
         height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_5
       rect:
@@ -130,7 +130,7 @@ TextureImporter:
         width: 365
         height: 368
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_6
       rect:
@@ -140,7 +140,7 @@ TextureImporter:
         width: 357
         height: 365
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_7
       rect:
@@ -150,7 +150,7 @@ TextureImporter:
         width: 356
         height: 361
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_8
       rect:
@@ -160,7 +160,7 @@ TextureImporter:
         width: 354
         height: 358
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_9
       rect:
@@ -170,7 +170,7 @@ TextureImporter:
         width: 353
         height: 355
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_10
       rect:
@@ -180,7 +180,7 @@ TextureImporter:
         width: 356
         height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_11
       rect:
@@ -190,7 +190,7 @@ TextureImporter:
         width: 354
         height: 361
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_12
       rect:
@@ -200,7 +200,7 @@ TextureImporter:
         width: 356
         height: 363
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_13
       rect:
@@ -210,7 +210,7 @@ TextureImporter:
         width: 363
         height: 367
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_14
       rect:
@@ -220,7 +220,7 @@ TextureImporter:
         width: 368
         height: 369
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_15
       rect:
@@ -230,7 +230,7 @@ TextureImporter:
         width: 374
         height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_16
       rect:
@@ -240,17 +240,7 @@ TextureImporter:
         width: 379
         height: 376
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite7_17
-      rect:
-        serializedVersion: 2
-        x: 853
-        y: 742
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_18
       rect:
@@ -260,27 +250,7 @@ TextureImporter:
         width: 384
         height: 381
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite7_19
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 342
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: animalsprite7_20
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 354
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_21
       rect:
@@ -290,7 +260,7 @@ TextureImporter:
         width: 389
         height: 384
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: animalsprite7_22
       rect:
@@ -300,7 +270,7 @@ TextureImporter:
         width: 395
         height: 387
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
