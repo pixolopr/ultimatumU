@@ -1,9 +1,27 @@
 fileFormatVersion: 2
 guid: 2fa9cec8326f6dc4e83af33b8c68dd12
-timeCreated: 1438163956
+timeCreated: 1438213223
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: animalsprite10_0
+    21300002: animalsprite10_1
+    21300004: animalsprite10_2
+    21300006: animalsprite10_3
+    21300008: animalsprite10_4
+    21300010: animalsprite10_5
+    21300012: animalsprite10_6
+    21300014: animalsprite10_7
+    21300016: animalsprite10_8
+    21300018: animalsprite10_9
+    21300020: animalsprite10_10
+    21300022: animalsprite10_11
+    21300024: animalsprite10_12
+    21300026: animalsprite10_13
+    21300028: animalsprite10_14
+    21300030: animalsprite10_15
+    21300032: animalsprite10_16
+    21300034: animalsprite10_17
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +48,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +66,187 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: animalsprite10_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2636
+        width: 372
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2636
+        width: 373
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2344
+        width: 373
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2344
+        width: 373
+        height: 283
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2052
+        width: 372
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2052
+        width: 372
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1759
+        width: 371
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1760
+        width: 374
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1465
+        width: 372
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1176
+        width: 374
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 883
+        width: 371
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 884
+        width: 373
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 591
+        width: 373
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 591
+        width: 372
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 300
+        width: 372
+        height: 283
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 300
+        width: 371
+        height: 281
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 374
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalsprite10_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 8
+        width: 372
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

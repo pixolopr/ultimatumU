@@ -1,1 +1,0 @@
-Assets/Resources/level4/animalsprite1_0.controller
